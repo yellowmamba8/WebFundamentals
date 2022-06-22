@@ -1,0 +1,26 @@
+.search {
+    background-color: lightgray;
+    border-radius: 10px;
+    color: teal;
+    border: 1px solid teal;
+    height: 25px;
+    width: 100px;
+}
+
+.plus {
+    background-color: aquamarine;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.create {
+    background-color: blue;
+    color: white;
+    box-shadow: 2px;
+    border: 1px solid black;
+    padding: 10px;
+    box-shadow: 10px 5px 10px black;
+} 
